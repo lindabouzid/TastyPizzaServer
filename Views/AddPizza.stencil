@@ -1,0 +1,8 @@
+
+<html>
+<form action="" method="post">
+name: <input type="text" name="name"><br>
+ingredients: <input type="text" name="ing"><br>
+<input type="submit" value="Submit">
+</form>
+</html>

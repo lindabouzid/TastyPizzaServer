@@ -1,0 +1,3 @@
+.build/							usr/src/TastyPizzaServer
+terraform/scripts/install.sh	usr/src/TastyPizzaServer
+terraform/scripts/start.sh		usr/src/TastyPizzaServer

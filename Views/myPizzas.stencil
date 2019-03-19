@@ -1,0 +1,8 @@
+
+<html>
+There are {{ pizzas.count }} pizzas. <br />
+
+{% for pizza in pizzas %}
+- {{ pizza.name }} contain {{ pizza.ingredients}}. <br />
+{% endfor %}
+</html>

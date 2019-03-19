@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/Users/bender/TastyPizzaBackend/TastyPizzaServer/.build/checkouts/omr-agentcore--1586356536543751822/src/agentcore/include"
+    export *
+}
